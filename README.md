@@ -14,15 +14,16 @@ Separamos os arquivos em <b>Main.c</b> onde fica o menu em si, <b>Filmes.c</b> o
 Definitivamente foi um sistema legal de programar, porém tivemos alguns contra tempos enquanto estávamos fazendo.
 
 # Ferramentas Utilizadas | ⚒️
-💾 | IDE: Visual Studio Code
+💾 | IDE: Visual Studio Code <br>
 🤖 | I.A: Copilot para auxiliar a debugar e consultar sobre partes do código.
 
 # Como Executar | 💻
+Usamos o GCC como compilador. <br>
 Para executar é bem simples, você compila pode os dois arquivos principais novamente com o comando:<br>
-<b>gcc Main.c Filmes.c -o Filmes.exe</b> <br>
+> <b>gcc Main.c Filmes.c -o Filmes.exe</b> <br>
 E depois para executar você utiliza (ou só usar este logo de inicio, o programa já está compilado.):<br>
-<b>.\Filmes.exe</b>
-🔴<p style="color: red;">TOME CUIDADO COM OS DIRETÓRIOS</p>
+> <b>.\Filmes.exe</b> <br>
+🔴TOME CUIDADO COM OS DIRETÓRIOS
 
 
 # Envolvidos | 🌐
