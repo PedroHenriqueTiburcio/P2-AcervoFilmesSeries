@@ -10,7 +10,7 @@ Nós escolhemos o tema de Acervo de Filmes e Séries porque gostamos muito de v�
 
 # Desenvolvimento | 👾
 Nós dividimos as funções com o Tiburcio ficando na programação e eu, Eduardo, na parte da documentação e auxiliando ele no que ele precisava fazer, fizemos um menuzinho simples com algumas funções de Cadastro, Exclusão, Listamento e Busca de filmes. <br>
-Separamos os arquivos em <b>Main.c</b> onde fica o menu em si, <b>Filmes.c</b> onde fica as funções e sistemas mais complexos, <b>Filmes.h</b> para o struct e um arquivo de texto que as vezes se duplica, o <b>filmes.txt</b> e o <b>filmes_temp.txt</b>, que também armazenam os dados, em um formato <b>dado1;dado2;dado3;dado4<\b> e etc., pulando linha para cada registro de filme. <br>
+Separamos os arquivos em <b>Main.c</b> onde fica o menu em si, <b>Filmes.c</b> onde fica as funções e sistemas mais complexos, <b>Filmes.h</b> para o struct e um arquivo de texto que as vezes se duplica, o <b>filmes.txt</b> e o <b>filmes_temp.txt</b>, que também armazenam os dados, em um formato <b>dado1;dado2;dado3;dado4</b> e etc., pulando linha para cada registro de filme. <br>
 Definitivamente foi um sistema legal de programar, porém tivemos alguns contra tempos enquanto estávamos fazendo.
 
 # Ferramentas Utilizadas | ⚒️
