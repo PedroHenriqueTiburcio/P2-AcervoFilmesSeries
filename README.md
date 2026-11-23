@@ -20,9 +20,9 @@ Definitivamente foi um sistema legal de programar, porém tivemos alguns contra 
 # Como Executar | 💻
 Usamos o GCC como compilador. <br>
 Para executar é bem simples, você compila pode os dois arquivos principais novamente com o comando:<br>
-``` <b>gcc Main.c Filmes.c -o Filmes.exe</b> ```
+```gcc Main.c Filmes.c -o Filmes.exe``` <br>
 E depois para executar você utiliza (ou só usar este logo de inicio, o programa já está compilado.):<br>
-``` <b>.\Filmes.exe</b> ```
+```.\Filmes.exe ``` <br>
 🔴TOME CUIDADO COM OS DIRETÓRIOS
 
 
