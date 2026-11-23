@@ -25,7 +25,6 @@ E depois para executar você utiliza (ou só usar este logo de inicio, o program
 ```.\Filmes.exe ``` <br> <br>
 <b>TOME CUIDADO COM OS DIRETÓRIOS</b>
 
-
 # Envolvidos | 🌐
 ⚖️ | Eduardo Aureliano Nascimento - RA: 1630482611020 <br>
 🎸 | Pedro Henrique Tiburcio - RA: 1630482611011
