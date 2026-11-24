@@ -15,7 +15,7 @@ Definitivamente foi um sistema legal de programar, porém tivemos alguns contra 
 
 # ⚒️ Ferramentas Utilizadas
 💾 | IDE: Visual Studio Code <br>
-🤖 | I.A: Copilot para auxiliar a debugar e consultar sobre partes do código.
+🤖 | I.A: Copilot para auxiliar a debugar, consultar e ajudar principalmente com a parte dos vetores dinâmicos.
 
 # 💻Como Executar
 Usamos o GCC como compilador. <br>
