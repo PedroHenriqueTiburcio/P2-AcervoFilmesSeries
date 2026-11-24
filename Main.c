@@ -20,7 +20,15 @@ int main(void){
         printf("0 - Sair\n\n");
 
         printf("Escolha sua opção: ");
-        scanf("%d", &opcao);
+        if (scanf("%d", &opcao) != 1){
+            int caractere;
+            while ((caractere = getchar()) != '\n' && caractere != EOF){}
+            if (caractere == EOF){
+                break;
+            }
+            printf("Opção inválida.\n");
+            continue;
+        }
 
         switch (opcao){
             case 1: cadastroFilmes(); break;

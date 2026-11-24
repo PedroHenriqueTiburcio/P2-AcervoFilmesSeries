@@ -9,9 +9,6 @@ typedef struct {
     float nota;
 } Filme;
 
-Filme *criarFilme(void);
-void liberarFilme(Filme *filme);
-
 void cadastroFilmes(void);
 void deletarFilmes(void);
 void listarFilmes(void);
