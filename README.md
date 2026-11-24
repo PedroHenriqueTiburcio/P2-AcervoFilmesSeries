@@ -26,5 +26,5 @@ E depois para executar você utiliza (ou só usar este logo de inicio, o program
 <b>TOME CUIDADO COM OS DIRETÓRIOS</b>
 
 # Envolvidos | 🌐
-⚖️ | Eduardo Aureliano Nascimento - RA: 1630482611020 <br>
+🌹 | Eduardo Aureliano Nascimento - RA: 1630482611020 <br>
 🎸 | Pedro Henrique Tiburcio - RA: 1630482611011
